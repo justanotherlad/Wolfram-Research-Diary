@@ -23,3 +23,6 @@ for "inscribed rectangle".
 Looks like a potential project to work on after the internship?
 
 > ##### Submitted Project Title and Description after consulting with mentor.
+
+&nbsp;
+> ###### [Next Day](Day5.md)
