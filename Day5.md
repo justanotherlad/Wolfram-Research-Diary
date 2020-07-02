@@ -6,7 +6,7 @@
 
 
 
-> Played Chicken Scratch Revealed (A Game Developed by Mark Greenberg, Wolfram Research)
+> Played Chicken Scratch Revealed (A Game Developed by Mark Greenberg, Wolfram Research) in the morning
 >
 > Read up about Tarski Paradox.
 >
