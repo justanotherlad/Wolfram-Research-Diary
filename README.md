@@ -64,8 +64,8 @@ Abstract:
 
 -----------------------------------------------------------------------------------------------------
 ### Daywise Diary
-- [Day 1](Day1.txt)
-- [Day 2](Day2.txt)
-- [Day 3](Day3.txt)
-- [Day 4](Day4.txt)
-- [Day 5](Day5.txt)
+- [Day 1](Day1.md)
+- [Day 2](Day2.md)
+- [Day 3](Day3.md)
+- [Day 4](Day4.md)
+- [Day 5](Day5.md)
