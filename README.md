@@ -63,7 +63,7 @@ Abstract:
 - Graduation
 
 -----------------------------------------------------------------------------------------------------
-#### Daywise Diary
+### Daywise Diary
 - [Day 1](Day1.txt)
 - [Day 2](Day2.txt)
 - [Day 3](Day3.txt)
