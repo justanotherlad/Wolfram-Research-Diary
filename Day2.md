@@ -13,3 +13,6 @@ ImageDifference[], etc.
 Still have the Programming assignment to do.
 
 > - Had first meeting with my mentor, ***Carl Woll, Lead Developer, Wolfram Alpha***. (really cool guy. Has a dog who barks sometimes in the background)
+
+&nbsp;
+> ###### [Next Day](Day3.md)
