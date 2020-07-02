@@ -7,4 +7,4 @@
 > - Virtual Pizza Party (had mom's made garlic bread)
 > - Stephen's Opening Keynote
 
-> [Next Day](Day2.md)
+> ###### [Next Day](Day2.md)
