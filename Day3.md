@@ -97,7 +97,8 @@ To calculate upto N digits of a power tower in 10^N steps at max
 ("Get a symbolic representation for results" !?!?!?!?)
 
 > READ UP OVERVIEWS ABOUT GODEL'S INCOMPLETENESS THEOREM
-> ASKED JONATHAN GORARD (Physics Track Head, Masters in Maths, King's College, London) ABOUT GOOD BOOKS TO START READING ABOUT AXIOMATIC SET THEORY/ LOGIC THEORY. SUGGESTED ***Kleene's "Introduction to Metamathematics"*** and  slightly dry, ***van Dalen's "Logic and Structure"***
+> ASKED [JONATHAN GORARD](https://education.wolfram.com/summer/school/alumni/2017/gorard/) (Physics Track Head, Masters in Maths, King's College, London) ABOUT GOOD BOOKS TO START READING ABOUT AXIOMATIC SET THEORY/ LOGIC THEORY. SUGGESTED ***Kleene's "Introduction to Metamathematics"*** and  slightly dry, ***van Dalen's "Logic and Structure"*** 
+
 > SHO HINARA SUGGESTED ***Russel’s “Artificial Intelligence - A modern approach”*** 
 
 -------------------------------------------------------------------------------
