@@ -47,13 +47,13 @@ Abstract:
 - Project meeting with Stephen Wolfram (individually assigned)
 
 
-
+&nbsp;
 ##### Week Two
 ###### July 5:
 - Submitting project description
 
 
-
+&nbsp;
 ##### Week Three
 ###### July 14:
 - Final project deadline
