@@ -46,4 +46,4 @@ Ordinal Arithmetic, Transfinite Arithmetic and concepts of Continuum Hypothesis 
 ---------------------------------------------------------------------------------------------
 
 
-> #### HAD ONE-TO-ONE INTERACTION WITH STEPHEN WOLFRAM FOR ABOUT 30MINS IN TOTAL ABOUT DISCUSSION AND FINALIZING OF PROJECT TOPIC!
+> #### HAD ONE-TO-ONE INTERACTION WITH STEPHEN WOLFRAM FOR ABOUT 30MINS IN TOTAL ABOUT DISCUSSION AND FINALIZING OF PROJECT TOPIC! (Highest point on career!? LMAO)
