@@ -2,6 +2,8 @@
 
 > A minimalistic txt blog to keep a record of WSS2020 for myself
 
+Format: Day_i.txt
+
 \
 \
 Project-proposals I had submitted while Application:
