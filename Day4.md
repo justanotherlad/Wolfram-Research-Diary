@@ -42,7 +42,7 @@ Ordinal Arithmetic, Transfinite Arithmetic and concepts of Continuum Hypothesis 
 >
 > Looked a lot into Axiomatic systems and how they work. Bugged Abhirup with the same.
 > wolfram /FindEquationalProof[] is a mind-blowing function, developed by Jonathan and team.
-> Axioms of Truth- an interesting topic to ponder upon, maybe for Computational essay?
+> Axioms of Truth- an interesting topic to ponder upon, maybe for *Computational essay*?
 
 ---------------------------------------------------------------------------------------------
 
