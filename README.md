@@ -34,11 +34,12 @@ Abstract:
  ***Ultimately, these proposals were probably too higher-ended, and probably sort of more of a Masters' Research Thesis than a 3-weeks' project. So ultimately worked on something else.***
  
  #### Timeline
- ##### Week One
-         : June 28:
-                  - Tech check-in and networking with Stephen Wolfram, mentors and students
-         : June 29–July 4:
-                  - Lectures, project time and mentor meetings
-                  - Group meeting with Stephen Wolfram (assigned times in small groups)
-                  - Project meeting with Stephen Wolfram (individually assigned)
+         
+         ##### Week One
+                  : June 28:
+                           - Tech check-in and networking with Stephen Wolfram, mentors and students
+                  : June 29–July 4:
+                           - Lectures, project time and mentor meetings
+                           - Group meeting with Stephen Wolfram (assigned times in small groups)
+                           - Project meeting with Stephen Wolfram (individually assigned)
 
