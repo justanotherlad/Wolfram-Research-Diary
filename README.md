@@ -1,8 +1,8 @@
-# Wolfram-Research-Diary and Notes to Self
+# Wolfram-Research-Diary
 
-> A minimalistic txt blog to keep a record of WSS2020 for myself
+> A minimalistic md blog to keep a record of WSS2020 and write notes for myself
 
-Format: Day_i.txt (as uploaded above)
+Format: Day_i.md (as uploaded above)
 
 \
 \
@@ -31,4 +31,14 @@ Abstract:
 
 ```
  
- Ultimately, these proposals were probably too higher-ended, and probably sort of more of a Masters' Research Thesis than a 3-weeks' project. So ultimately worked on something else.
+ ***Ultimately, these proposals were probably too higher-ended, and probably sort of more of a Masters' Research Thesis than a 3-weeks' project. So ultimately worked on something else.***
+ 
+ #### Timeline
+ ##### Week One
+         : June 28:
+                  - Tech check-in and networking with Stephen Wolfram, mentors and students
+         : June 29–July 4:
+                  - Lectures, project time and mentor meetings
+                  - Group meeting with Stephen Wolfram (assigned times in small groups)
+                  - Project meeting with Stephen Wolfram (individually assigned)
+
