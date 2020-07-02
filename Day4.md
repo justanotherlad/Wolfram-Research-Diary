@@ -22,6 +22,7 @@
 > Further Read: Ordinal Arithmetic, Axiom of countable choice
 
 > ***Note***: http://blog.wolframalpha.com/2010/09/10/transfinite-cardinal-arithmetic-with-wolframalpha/
+>
 > ^^ probably one of the coolest blogs I've read. Changed the way how I look at infinity.
 > WL seems to be not working for transfinite arithmetic when I tried in notebook. It might actually be a good idea to mplement tarnsfinite arithmetic in WL.
 >
