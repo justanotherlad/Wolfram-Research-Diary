@@ -1,29 +1,28 @@
----
-title: WSS2020
-date: 30-06-2020
----
+----------
+###### Title: WSS'2020 - Day 3
+###### Date: 30-06-2020
+----------
 
+> - Started looking into my selected 5 potential-project topics (suggested by Stephen Wolfram) in depth:
 
-- Started looking into my selected 5 potential-project topics (suggested by Stephen Wolfram) in depth:
-
->36. Make a Framework for Zero Knowledge Proofs:
-
-WL has a good framework for public key encryption, digital signatures, etc. Design functions that implement zero knowledge proofs in similar ways.
+> - 36. Make a Framework for Zero Knowledge Proofs:
+>
+> WL has a good framework for public key encryption, digital signatures, etc. Design functions that implement zero knowledge proofs in similar ways.
 https://www.moneycontrol.com/news/technology/ey-releases-zero-knowledge-proof-blockchain-transaction-technology-to-the-public-domain-3851381.html
 https://www.ey.com/en_gl/news/2019/04/ey-releases-zero-knowledge-proof-blockchain-transaction-technology-to-the-public-domain-to-advance-blockchain-privacy-standards
- 
-https://github.com/EYBlockchain/ZKPChallenge 
-[[ [Re: SNARKS
-I see it like this:
- 
-We have to imagine blockchain named XX that uses STARKs.
-It will use an interactive or a non-interactive zk-proof (they say STARK can be either).
-If it’s non-interactive we could do it silently inside BlockchainTransactionSign/Submit for BlockchainBase -> XX.
-Alternatively, if it’s interactive (thus, has to receive something from the blockchain XX) or we just want to expose that we’re doing it we could have a separate function like BlockchainZKProofConstruct which yields a ZKProof[] object / ByteArray which then becomes an input to BlockchainTransactionSubmit.
- 
-Assuming we won’t have to implement from scratch all the math from their whitepaper.
- 
-Dariia]]]]
+>
+> https://github.com/EYBlockchain/ZKPChallenge 
+> [[ [Re: SNARKS
+> I see it like this:
+>
+> We have to imagine blockchain named XX that uses STARKs.
+> It will use an interactive or a non-interactive zk-proof (they say STARK can be either).
+> If it’s non-interactive we could do it silently inside BlockchainTransactionSign/Submit for BlockchainBase -> XX.
+> Alternatively, if it’s interactive (thus, has to receive something from the blockchain XX) or we just want to expose that we’re doing it we could have a separate function like BlockchainZKProofConstruct which yields a ZKProof[] object / ByteArray which then becomes an input to BlockchainTransactionSubmit.
+>
+> Assuming we won’t have to implement from scratch all the math from their whitepaper.
+> 
+> Dariia]]]]
 
 
 
