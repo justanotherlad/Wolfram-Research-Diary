@@ -5,11 +5,11 @@
 
 
 
-> Intro, Schedule Overview and School Tech Overview by Vitaliy Kaurov, Wolfram Research
+> - Intro, Schedule Overview and School Tech Overview by Vitaliy Kaurov, Wolfram Research
 
-> Wolfram Language Training by Marco Thiel, Wolfram Research (really liked some of the awesome functinalities of the Wolfram Language like /Classify[],
+> - Wolfram Language Training by Marco Thiel, Wolfram Research (really liked some of the awesome functinalities of the Wolfram Language like /Classify[],
 FacialFeatures[],
 ImageDifference[], etc.
 Still have the Programming assignment to do.
 
-> Had first meeting with my mentor, ***Carl Woll, Lead Developer, Wolfram Alpha***. (really cool guy. Has a dog who barks sometimes in the background)
+> - Had first meeting with my mentor, ***Carl Woll, Lead Developer, Wolfram Alpha***. (really cool guy. Has a dog who barks sometimes in the background)
