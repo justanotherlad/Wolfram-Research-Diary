@@ -36,7 +36,7 @@ Abstract:
  #### Timeline
  
    ##### Week One
-   : June 28:
+   : June 28
    - Tech check-in and networking with Stephen Wolfram, mentors and students
    : June 29–July 4:
    - Lectures, project time and mentor meetings
