@@ -31,7 +31,7 @@ Abstract:
 
 ```
  
- ###### *Ultimately, these proposals were probably too higher-ended, and probably sort of more of a Masters' Research Thesis than a 3-weeks' project. So ultimately worked on something else.*
+ ###### *Ultimately, these proposals were probably too higher-ended, and probably sort of more of a Masters' Research Thesis than a 3-weeks' project. So ultimately was suggested to work on something else by mentors.*
 -----------------------------------------------------------------------------------------------------
 
 
