@@ -103,3 +103,6 @@ To calculate upto N digits of a power tower in 10^N steps at max
 -------------------------------------------------------------------------------
 
 > Mentor meeting for about 25mins at 2.00am at night. Doubt removal session.
+
+&nbsp;
+> ###### [Next Day](Day4.md)
