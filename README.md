@@ -11,7 +11,6 @@ Abstract:
                    in 1850 and later improved by Erdos in 1932. However, a related problem is to find the least value of theta so that there 
                    exists at least one prime between n and n+O(n^theta) for sufficiently large n.
                    The smallest known value is theta=6/11+epsilon.
-
                    I would like to work on this problem and see if, through Mathematica, I could study the functions like Prime Number Counting
                    and Next Prime which are already available as functions in the Wolfram Language and discover some sort of patterns which might
                    arise through emperical investigation and find a better result for the same.
@@ -23,7 +22,6 @@ Abstract:
                    is based on one or more such Ragas. It is a difficult task to listen to one such piece and determine the raga manually, just by
                    expertise and experience, and your skill in Indian Classical Music can literally be determined by how much expert you are in
                    identifying a Raga by just listening to it.
-
                    My goal in this project is to develop a classification method using Wolfram Language such that by analyzing a raga and it's notes,
                    it can be determined upto a certain accuracy which Raga the piece might be based on.
 
