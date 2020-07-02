@@ -63,7 +63,7 @@ https://www.ey.com/en_gl/news/2019/04/ey-releases-zero-knowledge-proof-blockchai
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 > ##### Self-Study time:
 
-> - Topic (1)
+> - Topic (2)
 >
 > ***Doubts*** : HYpercalc stores and manipulates numbers using a level-index format; as such it can go far beyond the limits of bc, dc, MACSYMA/maxima,Mathematica and Maple, all of which use a bigint library (arbitrary- precision arithmetic).
 > 
@@ -82,7 +82,7 @@ To calculate upto N digits of a power tower in 10^N steps at max
 &nbsp;
 
 
-> - Topic 2: Tetration
+> - Topic (3): Tetration
 >
 > ***Note***: https://community.wolfram.com/groups/-/m/t/1139667?p_p_auth=4xTC6sCX (handy blog by WSC student)
 >
