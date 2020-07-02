@@ -2,8 +2,7 @@
 
 > A minimalistic md blog to keep a record of WSS2020 and write notes for myself
 
-Format: Day_i.md (as uploaded above)
-
+*Format: Day_i.md (as uploaded above)*
 \
 \
 Project-proposals I had submitted while Application:
