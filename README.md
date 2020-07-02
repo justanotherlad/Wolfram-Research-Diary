@@ -1,11 +1,11 @@
 # Wolfram-Research-Diary
 
-> A minimalistic md blog to keep a record of WSS2020 and write notes for myself
+> A minimalistic md blog to keep a record of WSS'2020 and write notes for myself
 
 *Format: Day_i.md (as uploaded above)*
 
-\
-\
+&nbsp;
+&nbsp;
 ###### Project-proposals I had submitted while Application:
 ```
 A) Title: Computational Methods for Analyzing Related Problems to Bertrand's Postulates
