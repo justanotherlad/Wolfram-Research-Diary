@@ -5,7 +5,7 @@
 \
 \
 Project-proposals I had submitted while Application:
-
+```
 A) Title: Computational Methods for Analyzing Related Problems to Bertrand's Postulates
 
 Abstract: 
@@ -27,6 +27,6 @@ Abstract:
                    My goal in this project is to develop a classification method using Wolfram Language such that by analyzing a raga and it's notes,
                    it can be determined upto a certain accuracy which Raga the piece might be based on.
 
-
+```
  
  Ultimately, these proposals were probably too higher-ended, and probably sort of more of a Masters' Research Thesis than a 3-weeks' project. So ultimately worked on something else.
