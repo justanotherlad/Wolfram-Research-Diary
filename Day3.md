@@ -3,9 +3,9 @@
 ###### Date: 30-06-2020
 ----------
 
-> - Started looking into my selected 5 potential-project topics (suggested by Stephen Wolfram) in depth:
+> Started looking into my selected 5 potential-project topics (suggested by Stephen Wolfram) in depth:
 
-> - 36. Make a Framework for Zero Knowledge Proofs:
+> - ###### Make a Framework for Zero Knowledge Proofs:
 >
 > WL has a good framework for public key encryption, digital signatures, etc. Design functions that implement zero knowledge proofs in similar ways.
 https://www.moneycontrol.com/news/technology/ey-releases-zero-knowledge-proof-blockchain-transaction-technology-to-the-public-domain-3851381.html
