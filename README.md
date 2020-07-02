@@ -39,10 +39,30 @@ Abstract:
 ##### Week One
 ###### June 28
 - Tech check-in and networking with Stephen Wolfram, mentors and students
-\
+
 
 ###### June 29–July 4:
 - Lectures, project time and mentor meetings
 - Group meeting with Stephen Wolfram (assigned times in small groups)
 - Project meeting with Stephen Wolfram (individually assigned)
+
+
+
+##### Week Two
+###### July 5:
+- Submitting project description
+
+
+
+##### Week Three
+###### July 14:
+- Final project deadline
+
+###### July 15:
+- Community post deadline
+- Two-minute presentations
+
+###### July 16:
+- Poster sessions
+- Graduation
 
