@@ -14,5 +14,5 @@
 on Applications of Topology to try to solve unsolved problems in mathematics like "Can there always be an inscribed square in a closed loop figure?", and solving the same
 for "inscribed rectangle".
 >
-> Attended Lectures on Graphs and NeedForSpeed (How to use Wolfram Language in a more efficient way in terms of computation-time)
+> Attended Lectures on ***Graphs*** and ***NeedForSpeed*** (How to use Wolfram Language in a more efficient way in terms of computation-time)
 
