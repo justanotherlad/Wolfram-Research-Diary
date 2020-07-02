@@ -1,6 +1,6 @@
 # Wolfram-Research-Diary
 
-> A minimalistic md blog to keep a record of WSS'2020 and write notes for myself
+> A minimalistic .md blog to keep a record of WSS'2020 and write notes for myself
 
 *Format: Day_i.md (as uploaded above)*
 
@@ -62,3 +62,10 @@ Abstract:
 - Poster sessions
 - Graduation
 
+-----------------------------------------------------------------------------------------------------
+##### Daywise Diary
+- [Day 1](Day1.txt)
+- [Day 2](Day2.txt)
+- [Day 3](Day3.txt)
+- [Day 4](Day4.txt)
+- [Day 5](Day5.txt)
