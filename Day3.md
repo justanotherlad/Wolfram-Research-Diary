@@ -2,6 +2,8 @@
 ###### Title: WSS'2020 - Day 3
 ###### Date: 30-06-2020
 ----------
+&nbsp;
+
 
 > Started looking into my selected 5 potential-project topics (suggested by Stephen Wolfram) in depth:
 
@@ -24,43 +26,47 @@ https://www.ey.com/en_gl/news/2019/04/ey-releases-zero-knowledge-proof-blockchai
 > 
 > Dariia]]]]
 
+&nbsp;
 
 
 
-37. Implement Level-Index Arithmetic for Very Large Numbers
-
-https://mrob.com/pub/perl/hypercalc.html
-https://en.wikipedia.org/wiki/Symmetric_level-index_arithmetic
-
-
+> - ###### Implement Level-Index Arithmetic for Very Large Numbers:
+>
+> https://mrob.com/pub/perl/hypercalc.html
+> https://en.wikipedia.org/wiki/Symmetric_level-index_arithmetic
 
 
-38. Symbolic Manipulation of Tetration
-
-Get a symbolic representation for results: https://mrob.com/pub/math/largenum-3.html#hyper4
+&nbsp;
 
 
+> - ###### Symbolic Manipulation of Tetration
+>
+> Get a symbolic representation for results: https://mrob.com/pub/math/largenum-3.html#hyper4
 
 
-40. Implement Transfinite Arithmetic
-
-Set up symbolic transformation rules for Cantor’s transfinite arithmetic. Probably need to have TransfinitePlus, etc., but get to these using upvalues.
+&nbsp;
 
 
+> - ###### Implement Transfinite Arithmetic
+>
+> Set up symbolic transformation rules for Cantor’s transfinite arithmetic. Probably need to have TransfinitePlus, etc., but get to these using upvalues.
 
 
-52. Collect & Implement Additional Axiomatic/Formal Systems
+&nbsp;
 
-AxiomaticTheory has a variety of standard axiom systems from mathematics. Implement more of them, e.g. for specific types of algebraic systems, but also for systems from theoretical computer science, philosophical logic, etc.
+
+> - ###### Collect & Implement Additional Axiomatic/Formal Systems
+>
+> AxiomaticTheory has a variety of standard axiom systems from mathematics. Implement more of them, e.g. for specific types of algebraic systems, but also for systems from theoretical computer science, philosophical logic, etc.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
-Self-Study time:
+> ##### Self-Study time:
 
-Topic (1)
-
-Doubts : HYpercalc stores and manipulates numbers using a level-index format; as such it can go far beyond the limits of bc, dc, MACSYMA/maxima,Mathematica and Maple, all of which use a bigint library (arbitrary- precision arithmetic).
-
+> - Topic (1)
+>
+> Doubts : HYpercalc stores and manipulates numbers using a level-index format; as such it can go far beyond the limits of bc, dc, MACSYMA/maxima,Mathematica and Maple, all of which use a bigint library (arbitrary- precision arithmetic).
+> 
 Notes: one question is always, how far can the approximations be made.
 There's always the tower of power paradox...so with small errors or differences, you would require large digits for precision/approximation, but there's a limit to that we can have, and there's always gonna be a larger number which can have an even smaller error which requires further more number of digits to store the exact error
 
