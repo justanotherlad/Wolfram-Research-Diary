@@ -21,4 +21,4 @@ for "inscribed rectangle".
 > Had a conversation with Jack Heimrath (classmate of Jonathan), Matthew Szudzuk and Charles Pooh (Algorithms R&D, Wolfram Research) on my Ramset Theorem Analysis project idea in details, for about 45mins.
 Looks like a potential project to work on after the internship?
 
-> Submitted Project Title and Description after consulting with mentor.
+> ##### Submitted Project Title and Description after consulting with mentor.
