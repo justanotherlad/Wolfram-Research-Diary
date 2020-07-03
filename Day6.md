@@ -19,3 +19,6 @@
 
 > Attended Stephen Wolfram's private Q/A session.
 > Asked him Who his fav. physicist was, and what's his best science theorem. Answers: Einstein, Einstein's Path Integral
+
+&nbsp;
+> ###### [Next Day](Day7.md)
