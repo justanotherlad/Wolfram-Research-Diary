@@ -18,11 +18,11 @@ for "inscribed rectangle".
 >
 > Attended Lectures on ***Graphs*** and ***NeedForSpeed*** (How to use Wolfram Language in a more efficient way in terms of computation-time)
 
-> Had a conversation with Jack Heimrath (classmate of Jonathan), Matthew Szudzuk and Charles Pooh (Manager of R&D, Wolfram Research) on my Ramsey Theorem Analysis project idea in details, for about 45mins at midnight.
+> Had a conversation with [Jack Heimrath](https://education.wolfram.com/summer/school/alumni/2019/jack-heimrath/) (PhD, University of Cambridge), Matthew Szudzuk and Charles Pooh (Manager of R&D, Wolfram Research) on my Ramsey Theorem Analysis project idea in details, for about 45mins at midnight.
 \
 Looks like a potential project to work on after the internship?
 
 > ##### Submitted Project Title and Description after consulting with mentor.
 
 &nbsp;
-> ###### [Next Day](Day5.md)
+> ###### [Next Day](Day6.md)
