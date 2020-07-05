@@ -13,6 +13,8 @@
 
 > Guests went away. Trying to implement my project-idea by forming a data structure in Mathematica.
 
+> Implemented representation of power towers in level-index arithmetic form in python. Trying to do that now in Mathematica (1.43am)
+
 
 &nbsp;
 > ###### [Next Day](Day9.md)
