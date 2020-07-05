@@ -15,6 +15,8 @@
 
 > Implemented representation of power towers in level-index arithmetic form in python. Trying to do that now in Mathematica (1.43am)
 
+> Finished implementing it in the Wolfram Language (3.32am)
+
 
 &nbsp;
 > ###### [Next Day](Day9.md)
