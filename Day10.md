@@ -25,8 +25,13 @@
 > Couldn't understand anything out of the Perl code of Hypercalc. Reading and trying to implement from that would hence be last resort.\
 
 > ***Note:*** Later read: [Large Numbers](http://www.mrob.com/pub/math/largenum.html)\
->             Also,Some areas to ponder upon after basic implementations are complete [here](https://mrob.com/pub/math/hyper4.html#power_tower_paradox)\
+> Also,Some areas to ponder upon after basic implementations are complete [here](https://mrob.com/pub/math/hyper4.html#power_tower_paradox)\
 &nbsp;
+> Read [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927227/) for applications of Level-Index Arithmetic in mathematical problems/modern industry./
+
+>Attended [Brian Silverman](https://en.wikipedia.org/wiki/Brian_Silverman)'s lecture, the man who was in the development team of LOGO (Turtle?). Overwhelming to directly listen to and have an opportunity to interact with a person who had made LOGO which we were taught in school when we were very young!
+![A click from Brian Silverman's talk](brian.png)
+
 
 &nbsp;
 > ###### [Next Day](Day11.md)
