@@ -15,7 +15,7 @@
 > operations (apart from division by zero, of course) and is therefore free of underflow and overflow. The arithmetic system allows very large or very small numbers 
 > which may not be representable in a conventional floatingpoint system to be used during interim computation while still returning meaningful results.
 
-![A click from Clenshaw and Olver's paper](Screenshot_2020-07-07 Beyond Floating Point Journal of the ACM.png)
+![A click from Clenshaw and Olver's paper](ss_beyond_floating_point_numbers.png)
 
 
 &nbsp;
