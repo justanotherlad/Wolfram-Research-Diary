@@ -15,7 +15,7 @@
 > Mentor meeting for about 45mins. Got tips on parsing information of my function into an object class, as just printing is not helpful for performing arithmetic.
 > Advice on reading more research papers.
 
-> Played Chicken Scratch (developed by Mark) at night with Nik, Me and Antonia (on the same) team Vs Barbaba and Ahmed Elbanna.
+> Played Chicken Scratch (developed by Mark) at night with Nik, Me and Antonia (on the same team) Vs Barbaba and Ahmed Elbanna.
 
 > Constructed a separate function for power representation.
 
