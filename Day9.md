@@ -17,7 +17,7 @@
 
 > Played Chicken Scratch (developed by Mark) at night with Nik, Me and Antonia (on the same team) Vs Barbaba and Ahmed Elbanna.
 
-> Constructed a separate function for power representation.
+> Constructed a separate function for power representation (PowerForm) (3.30am night)
 
 
 &nbsp;
