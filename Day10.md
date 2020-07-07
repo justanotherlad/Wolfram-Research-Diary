@@ -29,6 +29,7 @@
 &nbsp;
 > Read [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927227/) for applications of Level-Index Arithmetic in mathematical problems/modern industry./
 
+&nbsp;
 >Attended [Brian Silverman](https://en.wikipedia.org/wiki/Brian_Silverman)'s lecture, the man who was in the development team of LOGO (Turtle?). Overwhelming to directly listen to and have an opportunity to interact with a person who had made LOGO which we were taught in school when we were very young!\
 &nbsp;
 ![A click from Brian Silverman's talk](brian.png)
