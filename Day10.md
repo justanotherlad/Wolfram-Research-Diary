@@ -14,6 +14,7 @@
 > of Clenshaw and Olver [1] and has been studied in a number of subsequent papers. Working to any finite precision, it is closed under the four basic arithmetic
 > operations (apart from division by zero, of course) and is therefore free of underflow and overflow. The arithmetic system allows very large or very small numbers 
 > which may not be representable in a conventional floatingpoint system to be used during interim computation while still returning meaningful results.
+>
 > [Image](Screenshot_2020-07-07 Beyond Floating Point Journal of the ACM.png)
 
 
