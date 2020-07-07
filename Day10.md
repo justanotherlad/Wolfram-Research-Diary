@@ -17,7 +17,10 @@
 
 ![A click from Clenshaw and Olver's paper](ss_beyond_floating_point_numbers.png)
 
->[Some introduction to Floating-point arithmetic(not very helpful for my project)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#687)
+
+>***Research literature-study starts:***
+> [Some introduction to Floating-point arithmetic(not very helpful for my project)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#687)
+> [Some introduction to Posit arithmetic](https://web.stanford.edu/class/ee380/Abstracts/170201-slides.pdf)
 
 
 &nbsp;
