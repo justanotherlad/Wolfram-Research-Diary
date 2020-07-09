@@ -35,6 +35,14 @@
 &nbsp;
 ![A click from Brian Silverman's talk](brian.png)
 
+&nbsp;
+> Met Luke Neville(from England) and Douw Marx(from South Africa) in Random Coffe Break (Wolfram arranged random coffee breakouts in group of 3 so that people 
+> could interact and get to know each other. Saulo da Paz Almeida (from Brazil) also joined us. Had a nice chat with everybody regarding education system in
+> different countries, span of Bachelors and PhDs in Brazil very long :P, Covid situation, etc.\
+
+> Mentor gather and sent a paper of ACM Digital Library : Level-Index Arithmetic Operations by C. W. Clenshaw and F. W. J. Oliver. Couldn't understand much from 
+> the notations :/
+
 
 &nbsp;
 > ###### [Next Day](Day11.md)
