@@ -1,6 +1,6 @@
 ----------
-###### Title: WSS'2020 - Day 10
-###### Date: 07-07-2020
+###### Title: WSS'2020 - Day 11
+###### Date: 08-07-2020
 ----------
 &nbsp;
 
@@ -27,6 +27,7 @@
 - [ ] How does it behave for Non-Integral Power Towers (complex numbers, fractions, etc.) (***Research Focus***)
 
 > Try to implement these functions also:
+![Some More Functions to Implement](photo_2020-07-07_17-21-41.jpg)
 
 
 &nbsp;
@@ -37,3 +38,12 @@
 
 &nbsp;
 > ***Doubt***: It does this by using a modified form of the level-index number system with a radix of 1.0e300(HyperCalc)?
+
+
+![Current performances of calculators in the market as updated by Robert Munafo in his blog](Screenshot_2020-07-07 Hypercalc - Kenny-TM-HyperCalc pdf.png)
+
+
+
+&nbsp;
+> ###### [Next Day](Day12.md)
+
