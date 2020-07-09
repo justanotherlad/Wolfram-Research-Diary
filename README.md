@@ -74,5 +74,23 @@ Abstract:
 - [Day 8](Day8.md)
 - [Day 9](Day9.md)
 - [Day 10](Day10.md)
+- [Day 11](Day11.md)
+- [Day 12](Day12.md)
+- [Day 13](Day13.md)
+- [Day 14](Day14.md)
+- [Day 15](Day15.md)
 
 
+-----------------------------------------------------------------------------------------------------
+
+
+> A Few TODos:
+- [ ] Lecture on Sound
+- [ ] Lecture on Web Applications
+- [ ] Lecture on Image Processing
+- [ ] Lecture on ML Intro (by Tuseeta)
+- [ ] Hands on ML-I, if possible
+- [ ] Stephen's Show and Tell, that I missed
+- [ ] Idea on forming a notebook with WL
+- [ ] Rene's n-queens graph
+- [ ] Barbara's WordCloud suggestion to form random song names
