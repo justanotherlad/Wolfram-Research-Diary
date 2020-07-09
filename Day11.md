@@ -24,7 +24,7 @@
 - [ ] remove string format from radix such that evaluations happens automatically
 - [ ] How to support (27^86)!   ??? (***Confused Area***)
 - [ ] work on better precision of index (N[index, large digit precision]????) (***Confused Area***)
-- [ ] How does it behave for Non-Integral Power Towers (complex numbers, fractions, etc.) (***Research Focus***)
+- [ ] How does it behave for Non-Integral Power Towers (complex numbers, fractions, etc.)Note:Doesn't work for negative powers yet (***Research Focus***)
 
 > Try to implement these functions also:
 ![Some More Functions to Implement](photo_2020-07-07_17-21-41.jpg)
