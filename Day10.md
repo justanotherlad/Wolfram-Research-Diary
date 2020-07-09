@@ -28,7 +28,7 @@
 > ***Note:*** Later read: [Large Numbers](http://www.mrob.com/pub/math/largenum.html)\
 > Also,Some areas to ponder upon after basic implementations are complete [here](https://mrob.com/pub/math/hyper4.html#power_tower_paradox)\
 &nbsp;
-> Read [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927227/) for applications of Level-Index Arithmetic in mathematical problems/modern industry./
+> Read [this](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4927227/) for applications of Level-Index Arithmetic in mathematical problems/modern industry.
 
 &nbsp;
 >Attended [Brian Silverman](https://en.wikipedia.org/wiki/Brian_Silverman)'s lecture, the man who was in the development team of LOGO (Turtle?). Overwhelming to directly listen to and have an opportunity to interact with a person who had made LOGO which we were taught in school when we were very young!\
@@ -38,7 +38,7 @@
 &nbsp;
 > Met Luke Neville(from England) and Douw Marx(from South Africa) in Random Coffe Break (Wolfram arranged random coffee breakouts in group of 3 so that people 
 > could interact and get to know each other. Saulo da Paz Almeida (from Brazil) also joined us. Had a nice chat with everybody regarding education system in
-> different countries, span of Bachelors and PhDs in Brazil very long :P, Covid situation, etc\
+> different countries, span of Bachelors and PhDs in Brazil very long :P, Covid situation, etc
 
 > Mentor gather and sent a paper of ACM Digital Library : Level-Index Arithmetic Operations by C. W. Clenshaw and F. W. J. Oliver. Couldn't understand much from 
 > the notations :/
