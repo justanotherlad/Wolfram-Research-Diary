@@ -22,7 +22,7 @@
 > [Some introduction to Floating-point arithmetic(not very helpful for my project)](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html#687)\
 > [Some introduction to Posit arithmetic](https://web.stanford.edu/class/ee380/Abstracts/170201-slides.pdf)\
 > Most of the research papers of *C. W. ClenshawF. W. J. Olve*, and, *D. W. Lozier & P. R. Turner* are not freely available.\
-> Couldn't understand anything out of the Perl code of Hypercalc. Reading and trying to implement from that would hence be last resort.\
+> Couldn't understand anything out of the Perl code of Hypercalc. Reading and trying to implement from that would hence be last resort.
 
 &nbsp;
 > ***Note:*** Later read: [Large Numbers](http://www.mrob.com/pub/math/largenum.html)\
