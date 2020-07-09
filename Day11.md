@@ -40,7 +40,7 @@
 > ***Doubt***: It does this by using a modified form of the level-index number system with a radix of 1.0e300(HyperCalc)?
 
 
-![Current performances of calculators in the market as updated by Robert Munafo in his blog](Screenshot_2020-07-07 Hypercalc - Kenny-TM-HyperCalc pdf.png)
+![Current performances of calculators in the market as updated by Robert Munafo in his blog](ss.png)
 
 
 
