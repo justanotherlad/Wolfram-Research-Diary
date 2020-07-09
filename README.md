@@ -84,7 +84,7 @@ Abstract:
 -----------------------------------------------------------------------------------------------------
 
 
-> A Few TODos:
+> A Few TODos for future:
 - [ ] Lecture on Sound
 - [ ] Lecture on Web Applications
 - [ ] Lecture on Image Processing
