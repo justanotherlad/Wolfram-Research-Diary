@@ -13,4 +13,27 @@
 > Addition and subtraction is now working perfectly.(5.23am)
 
 > Task still left:
-- [X] A task
+- [ ] Multiplication
+- [ ] Exponentiation
+- [ ] Division
+- [ ] A + PowerTower
+- [ ] A * PowerTower
+- [ ] Implement pow10/log10 and gamma.
+- [ ] Different bases doesnt work yet
+- [ ] Invoke my entire package when normally Mathematica overflows
+- [ ] remove string format from radix such that evaluations happens automatically
+- [ ] How to support (27^86)!   ??? (***Confused Area***)
+- [ ] work on better precision of index (N[index, large digit precision]????) (***Confused Area***)
+- [ ] How does it behave for Non-Integral Power Towers (complex numbers, fractions, etc.) (***Research Focus***)
+
+> Try to implement these functions also:
+
+
+&nbsp;
+> ***Note:*** ###### Things I can add in description of project: 
+> - The representation is not unique\
+> - Floating point arithmetic useless for most linear algebra systems (Invisible rounding errors)
+> - Further look into this link: https://link.springer.com/article/10.1007%2FBF02238636
+
+&nbsp;
+> ***Doubt***: It does this by using a modified form of the level-index number system with a radix of 1.0e300(HyperCalc)?
