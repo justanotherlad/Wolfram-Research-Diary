@@ -13,7 +13,7 @@
 > Addition and subtraction is now working perfectly.(5.23am)
 
 > Task still left:
-- [ ] Multiplication
+- [O] Multiplication
 - [ ] Exponentiation
 - [ ] Division
 - [ ] A + PowerTower
@@ -25,6 +25,8 @@
 - [ ] How to support (27^86)!   ??? (***Confused Area***)
 - [ ] work on better precision of index (N[index, large digit precision]????) (***Confused Area***)
 - [ ] How does it behave for Non-Integral Power Towers (complex numbers, fractions, etc.)Note:Doesn't work for negative powers yet (***Research Focus***)
+- [ ] The product is equal to the larger except in cases like {2, 312.0} * {2, 308.0} where the two values are within +- scale or so, where we have to do the
+return [2, s * (log10(1 + pow10(-d1)) + x[val])] thing. Doesn't work in my implementation yet.
 
 > Try to implement these functions also:
 ![Some More Functions to Implement](photo_2020-07-07_17-21-41.jpg)
