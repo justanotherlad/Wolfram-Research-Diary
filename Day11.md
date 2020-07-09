@@ -31,7 +31,7 @@
 
 
 &nbsp;
-> ***Note:*** ###### Things I can add in description of project: 
+> ***Note:***  ##### Things I can add in description of project: 
 > - The representation is not unique\
 > - Floating point arithmetic useless for most linear algebra systems (Invisible rounding errors)
 > - Further look into this link: https://link.springer.com/article/10.1007%2FBF02238636
