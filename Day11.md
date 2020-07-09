@@ -13,7 +13,7 @@
 > Addition and subtraction is now working perfectly.(5.23am)
 
 > Task still left:
-- [O] Multiplication
+- [x] Multiplication
 - [ ] Exponentiation
 - [ ] Division
 - [ ] A + PowerTower
