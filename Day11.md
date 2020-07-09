@@ -13,5 +13,5 @@
 > Addition and subtraction is now working perfectly.(5.23am)
 
 > Task still left:
-> ([]) A
-> ([]) B
+([]) A
+([]) B
