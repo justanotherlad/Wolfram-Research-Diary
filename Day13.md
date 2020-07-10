@@ -20,6 +20,7 @@ My next steps would be:
 > ###### Update:\
 > - I implemented most of the basic functions like Addition, Subtraction, Multiplication and Division for the current Notation
 > - Made a presentable notebook to show Stephen Wolfram in Project Touchpoint.
+![Project Touchpoint with Stephen Wolfram on Friday, 10th July,2020.](project_touchpoint.jpg)
 
 > Stephen said "it's really nice to see this project work." He said he always wanted to have this thing in Mathematica/ make this work, and it's nice to see it
 > finally working!\
@@ -32,7 +33,7 @@ myself dozed on Monster and still feeling everything of the project is falling a
 > I've always wanted to work in the branch connecting Mathematics and CS, and it's safe to say this is the first time I'm living my dream! But definitely not
 > the last.\
 > I'd never give up the passion of research for a 9-5 job.\
-> Q.E.D.
+> **Q.E.D.**
 
 
 &nbsp;
