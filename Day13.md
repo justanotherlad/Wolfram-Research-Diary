@@ -17,8 +17,9 @@ My next steps would be:
 - [ ] Implement HyperCalc's algo if nothing works.
 - [ ] Examine non-integral power towers again after all these.
 
-> ###### Update:\
+> ###### Update:
 > - I implemented most of the basic functions like Addition, Subtraction, Multiplication and Division for the current Notation
+> - [ ] Need to implement Exponentiation and Logarithm still
 > - Made a presentable notebook to show Stephen Wolfram in Project Touchpoint.\
 &nbsp;
 ![Project Touchpoint with Stephen Wolfram on Friday, 10th July,2020.](project_touchpoint.png)
