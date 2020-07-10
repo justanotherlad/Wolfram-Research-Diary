@@ -17,6 +17,22 @@ My next steps would be:
 - [ ] Implement HyperCalc's algo if nothing works.
 - [ ] Examine non-integral power towers again after all these.
 
+> ###### Update:\
+> - I implemented most of the basic functions like Addition, Subtraction, Multiplication and Division for the current Notation
+> - Made a presentable notebook to show Stephen Wolfram in Project Touchpoint.
+
+> Stephen said "it's really nice to see this project work." He said he always wanted to have this thing in Mathematica/ make this work, and it's nice to see it
+> finally working!\
+> ***Trust me, things can be really hard in Research work. Last two days have been most hard, with little sleep, thinking straight for hours and hours, keeping 
+myself dozed on Monster and still feeling everything of the project is falling apart everytime I find a new corner-case not working***.\
+> But Stephen encouraged, saying this is expected! And, also mentioned a few series, factorials, and areas relate to hypergraph I might wanna have a look at,
+> as it involves really interesting mathematics.\
+> Finally see some light at the end of the tunnel.\
+> These are the moments to live for.\
+> I've always wanted to work in the branch connecting Mathematics and CS, and it's safe to say this is the first time I'm living my dream! But definitely not
+> the last.\
+> I'd never give up the passion of research for a 9-5 job.\
+> Q.E.D.
 
 
 &nbsp;
