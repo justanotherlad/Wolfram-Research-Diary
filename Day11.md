@@ -16,8 +16,8 @@
 - [x] Multiplication
 - [ ] Exponentiation
 - [ ] Division
-- [ ] A + PowerTower
-- [ ] A * PowerTower
+- [x] A + PowerTower
+- [x] A * PowerTower
 - [ ] Implement pow10/log10 and gamma.
 - [x] Different bases doesnt work yet
 - [ ] Invoke my entire package when normally Mathematica overflows
