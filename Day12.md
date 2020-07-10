@@ -6,10 +6,10 @@
 
 
 
-> Fixed a few bugs in addition and subtraction operations.\
-> LOTS AND LOTS OF BUGS AND ISSUES\
-> Different bases now work\
-> Changed the radix to $MaxNumber of WL
+> - Fixed a few bugs in addition and subtraction operations.\
+> - LOTS AND LOTS OF BUGS AND ISSUES\
+> - Different bases now work\
+> - Changed the radix to $MaxNumber of WL
 
 
 
