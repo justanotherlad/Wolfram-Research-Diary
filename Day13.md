@@ -29,7 +29,7 @@ My next steps would be:
 > finally working!\
 > ***Trust me, things can be really hard in Research work. Last two days have been most hard, with little sleep, thinking straight for hours and hours, keeping 
 myself dozed on Monster and still feeling everything of the project is falling apart everytime I find a new corner-case not working***.\
-> But Stephen encouraged, saying this is expected! And, also mentioned a few series, factorials, and areas relate to hypergraph I might wanna have a look at,
+> But Stephen encouraged, saying this is expected! And, also mentioned a few series, factorials, and areas related to hypergraph I might wanna have a look at,
 > as it involves really interesting mathematics.\
 > Finally see some light at the end of the tunnel.\
 > These are the moments to live for.\
