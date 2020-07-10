@@ -35,7 +35,7 @@ myself dozed on Monster and still feeling everything of the project is falling a
 > These are the moments to live for.\
 > I've always wanted to work in the branch connecting Mathematics and CS, and it's safe to say this is the first time I'm living my dream! But definitely not
 > the last.\
-> I'd never give up the passion of research for a 9-5 job.\
+> Placements starting soon, but I'd never give up the passion of research for a 9-5 job (as of July 10,2020 :P Might change later).\
 > **Q.E.D.**
 
 
