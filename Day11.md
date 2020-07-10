@@ -15,12 +15,12 @@
 > Task still left:
 - [x] Multiplication
 - [ ] Exponentiation
-- [ ] Division
+- [x] Division
 - [x] A + PowerTower
 - [x] A * PowerTower
 - [ ] Implement pow10/log10 and gamma.
 - [x] Different bases doesnt work yet
-- [ ] Invoke my entire package when normally Mathematica overflows
+- [x] Invoke my entire package when normally Mathematica overflows
 - [ ] remove string format from radix such that evaluations happens automatically
 - [ ] How to support (27^86)!   ??? (***Confused Area***)
 - [ ] work on better precision of index (N[index, large digit precision]????) (***Confused Area***)
