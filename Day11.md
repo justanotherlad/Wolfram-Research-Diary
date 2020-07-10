@@ -19,7 +19,7 @@
 - [ ] A + PowerTower
 - [ ] A * PowerTower
 - [ ] Implement pow10/log10 and gamma.
-- [ ] Different bases doesnt work yet
+- [x] Different bases doesnt work yet
 - [ ] Invoke my entire package when normally Mathematica overflows
 - [ ] remove string format from radix such that evaluations happens automatically
 - [ ] How to support (27^86)!   ??? (***Confused Area***)
