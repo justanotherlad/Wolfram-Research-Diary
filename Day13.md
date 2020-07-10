@@ -20,8 +20,10 @@ My next steps would be:
 > ###### Update:\
 > - I implemented most of the basic functions like Addition, Subtraction, Multiplication and Division for the current Notation
 > - Made a presentable notebook to show Stephen Wolfram in Project Touchpoint.\
+&nbsp;
 ![Project Touchpoint with Stephen Wolfram on Friday, 10th July,2020.](project_touchpoint.png)
 
+&nbsp;
 > Stephen said "it's really nice to see this project work." He said he always wanted to have this thing in Mathematica/ make this work, and it's nice to see it
 > finally working!\
 > ***Trust me, things can be really hard in Research work. Last two days have been most hard, with little sleep, thinking straight for hours and hours, keeping 
