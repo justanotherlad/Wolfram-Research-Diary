@@ -6,7 +6,7 @@
 
 
 
-> - Had some issues in division
+> - Have some issues in division
 > - [ ] PowerTower[{10, 10, 10, 2}]/PowerTower[{10, 10, 10, 10, 2}] doesn't work
 > - [ ] PowerTower[{10, 10, 10, 2}]/PowerTower[{10, 10, 2}] gives erroneous result 
 > - [ ] PowerTower[{10, 10, 10, 10, 2}]/PowerTower[{10, 10, 2}] gives erroneous result
