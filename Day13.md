@@ -12,14 +12,14 @@
 - Cannot deal with PowerTowers like 10^2^1^9^8^7^2^6^4, where answer should actually be 10^2.
 
 My next steps would be:
-- [ ] Complete the functions listed as ToDos in the current notation as much possible, and see how non-integral power-tower works, and save it as current progress up till now.
+- [x] Complete the functions listed as ToDos in the current notation as much possible, and save it as current progress up till now.
 - [ ] Read up the papers sent by mentor, and try to implement the classical level-index notation to do-away with all the issues.
 - [ ] Implement HyperCalc's algo if nothing works.
 - [ ] Examine non-integral power towers again after all these.
 
 > ###### Update:
 > - I implemented most of the basic functions like Addition, Subtraction, Multiplication and Division for the current Notation
-> - [ ] Need to implement Exponentiation and Logarithm still
+> - [x] Need to implement Exponentiation and Logarithm still
 > - Made a presentable notebook to show Stephen Wolfram in Project Touchpoint.\
 &nbsp;
 ![Project Touchpoint with Stephen Wolfram on Friday, 10th July,2020.](project_touchpoint.png)
