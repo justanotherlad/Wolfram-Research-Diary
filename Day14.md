@@ -15,6 +15,7 @@
 &nbsp;
 > ###### Read the following Research Papers: 
 > - [Level-Index Arithmetic Operations](2157569.pdf) by Clenshaw and Olver
+> - [Symmetric level-index algorithm](8-4-517.pdf) by Clenshaw and Turner
 
 &nbsp;
 > ###### [Next Day](Day13.md)
