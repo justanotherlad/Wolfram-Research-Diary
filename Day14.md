@@ -18,7 +18,7 @@
 > - [Symmetric level-index algorithm](8-4-517.pdf) by Clenshaw and Turner
 
 > - A nice writing\
-![On LIA](Screenshot_2020-07-12 .png)
+![On LIA](Screenshot_2020-07-12.png)
 
 &nbsp;
 > ###### [Next Day](Day13.md)
