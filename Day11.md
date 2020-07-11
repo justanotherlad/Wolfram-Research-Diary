@@ -14,11 +14,11 @@
 
 > Task still left:
 - [x] Multiplication
-- [ ] Exponentiation
+- [x] Exponentiation
 - [x] Division
 - [x] A + PowerTower
 - [x] A * PowerTower
-- [ ] Implement pow10/log10 and gamma.
+- [x] Implement log10.
 - [x] Different bases doesnt work yet
 - [x] Invoke my entire package when normally Mathematica overflows
 - [ ] remove string format from radix such that evaluations happens automatically
