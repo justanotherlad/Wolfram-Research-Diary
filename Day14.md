@@ -11,7 +11,10 @@
 > - [ ] PowerTower[{10, 10, 10, 2}]/PowerTower[{10, 10, 2}] gives erroneous result 
 > - [ ] PowerTower[{10, 10, 10, 10, 2}]/PowerTower[{10, 10, 2}] gives erroneous result
 
-
+&nbsp;
+&nbsp;
+> ###### Read the following Research Papers: 
+> - [Level-index Arithmetic operations by Clenshaw and Olver](2157569.pdf)
 
 &nbsp;
 > ###### [Next Day](Day13.md)
