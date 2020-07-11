@@ -14,7 +14,7 @@
 &nbsp;
 &nbsp;
 > ###### Read the following Research Papers: 
-> - [Level-index Arithmetic operations by Clenshaw and Olver](2157569.pdf)
+> - [Level-Index Arithmetic Operations](2157569.pdf) by Clenshaw and Olver
 
 &nbsp;
 > ###### [Next Day](Day13.md)
