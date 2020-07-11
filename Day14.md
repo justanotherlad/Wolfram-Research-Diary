@@ -17,7 +17,7 @@
 > - [Level-Index Arithmetic Operations](2157569.pdf) by Clenshaw and Olver
 > - [Symmetric level-index algorithm](8-4-517.pdf) by Clenshaw and Turner
 
-> - A nice writing
+> - A nice writing\
 ![On LIA](Screenshot_2020-07-12 .png)
 
 &nbsp;
