@@ -11,7 +11,7 @@
 > - Had an overview of the paper [Basic Linear Algebra Operations in SLI Arithmetic](Basic_Linear_Algebra_Operations_in_SLI_Arithmetic.pdf) by Turner and Lozier
 
 &nbsp;
-> - [x] Implemented all the Ordinary Level-Index Algorithms from the research papers. Add,Sub,Mul,Div,Log,Exp and Pow seem to work now.
+> - [x] Implemented all the Ordinary Level-Index Arithmetic algorithms from the research papers. Add,Sub,Mul,Div,Log,Exp and Pow seem to work now.
 
 
 
