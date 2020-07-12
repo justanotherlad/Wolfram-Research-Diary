@@ -13,7 +13,7 @@
 
 &nbsp;
 &nbsp;
-> **Due to the issues faced in the initial implementation and since my denormalized form is not unique, there is a real need to do a careful implementation of the core algorithms.**
+> **Due to the issues faced in the initial implementation and since my denormalized form of representation of index is not unique, there is a real need to do a careful implementation of the core algorithms.**
 &nbsp;
 &nbsp;
 > ###### Read the following Research Papers: 
