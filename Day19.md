@@ -20,8 +20,8 @@
 ![After Poster-Session adda with Stephen](Screenshot_from_2020-07-17_01-56-33.png)
 
 
-
-> # ![WSS'2020 Certificate](SwastikB.pdf)
+&nbsp;
+> ## ![WSS'2020 Certificate](SwastikB.pdf)
 
 
 
