@@ -11,6 +11,7 @@
 [Wolfram Community Post](https://community.wolfram.com/groups/-/m/t/2030201)
 
 > - Played ***Chicken Scratch*** with Brian Silverman and everyone else at midnight!! Super fun!!
+
 &nbsp;
 ![Chicken Scratch after 2mins Presentation at midnight!](Screenshot_from_2020-07-16_02-20-25.png)
 
