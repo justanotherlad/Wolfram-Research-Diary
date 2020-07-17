@@ -13,9 +13,11 @@
 > - Met Wenzhen Zhu from Amazon who works in ML Solutions Lab in the US. Talked about ICPC, where she was a participant in 2014.
 > - Graduation Ceremony, where Stephen acknowledged everyone's project.
 
-> ###### After Poster-Session adda with Stephen:
+> ###### During Poster-Session and After Poster-Session adda with Stephen:
 
-![After Poster-Session adda with Stephen](photo_2020-07-17_18-17-33.jpg)
+![After Poster-Session adda with Stephen](Screenshot_from_2020-07-17_01-56-33.png)
+&nbsp;
+![After Poster-Session adda with Stephen](Screenshot_from_2020-07-17_01-56-33.png)
 
 > ###### ![WSS'2020 Certificate](SwastikB.pdf)
 
