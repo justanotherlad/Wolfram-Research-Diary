@@ -13,7 +13,9 @@
 > - Met Wenzhen Zhu from Amazon who works in ML Solutions Lab in the US. Talked about ICPC, where she was a participant in 2014.
 > - Graduation Ceremony, where Stephen acknowledged everyone's project.
 
-SwastikB.pdf
+![On LIA](SwastikB.pdf)
+
+
 
 
 
