@@ -1,3 +1,5 @@
+[![View notebooks](https://wolfr.am/HAAhzkRq)](https://wolfr.am/O77inixj)
+
 # Wolfram-Research-Diary
 
 > A minimalistic .md blog to keep a record of WSS'2020 and write notes for myself
