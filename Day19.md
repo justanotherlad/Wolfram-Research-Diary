@@ -15,11 +15,13 @@
 
 > ###### During Poster-Session and After Poster-Session adda with Stephen:
 
-![After Poster-Session adda with Stephen](Screenshot_from_2020-07-17_01-56-33.png)
+![After Poster-Session adda with Stephen](photo_2020-07-17_04-34-09.jpg)
 &nbsp;
 ![After Poster-Session adda with Stephen](Screenshot_from_2020-07-17_01-56-33.png)
 
-> ###### ![WSS'2020 Certificate](SwastikB.pdf)
+
+
+> # ![WSS'2020 Certificate](SwastikB.pdf)
 
 
 
