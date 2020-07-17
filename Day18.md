@@ -8,7 +8,7 @@
 
 > - Fixed some more bugs, like Log10, etc.
 > - 10pm Final Community Post and Project Submission **Deadline**.
-> - Rushed and completed. See Wolfram Notebook in README.md to see the full Project Notebook :-)
+> - Rushed and completed. See Wolfram Notebook in README.md to see the full Project Notebook of my WSS2020 research contribution :-)
 
 
 
