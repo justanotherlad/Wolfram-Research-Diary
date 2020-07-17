@@ -8,11 +8,15 @@
 
 > Last High Fidelity Meet as Farewell, to say Goodbye
 
+&nbsp;
+
+![Farewell/Goodbyes](Screenshot from 2020-07-17 20-10-22.png)
+
 
 
 
 
 &nbsp;
-> ###### [Next Day](Day19.md)
+> ###### THE END
 
 
