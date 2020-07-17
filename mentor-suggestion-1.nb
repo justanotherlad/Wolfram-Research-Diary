@@ -1,0 +1,243 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      8039,        233]
+NotebookOptionsPosition[      6257,        199]
+NotebookOutlinePosition[      6594,        214]
+CellTagsIndexPosition[      6551,        211]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[
+ RowBox[{"LevelIndexObject", "[", 
+  RowBox[{"base_", ",", " ", "n_", ",", " ", "index_"}], "]"}]], "Input",
+ CellChangeTimes->{{3.8030405450246468`*^9, 
+  3.803040555125441*^9}},ExpressionUUID->"70dd9bd1-4459-4d6d-b4ee-\
+59a466287a41"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"PowerTower", "[", "list", "]"}], " ", "--"}], ">", " ", 
+  RowBox[{"LevelIndexObject", "[", "...", "]"}]}]], "Input",
+ CellChangeTimes->{{3.803040561162633*^9, 
+  3.803040575425836*^9}},ExpressionUUID->"7993eb39-0090-4c23-9dfd-\
+0b77aa464f8d"],
+
+Cell[BoxData[
+ RowBox[{"powerForm", " ", "@", " ", 
+  RowBox[{"LevelIndexObject", "[", "...", "]"}]}]], "Input",
+ CellChangeTimes->{{3.803040590057962*^9, 
+  3.803040596673129*^9}},ExpressionUUID->"9f6dcb75-a2fc-4295-95e5-\
+6eeb033fea3d"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"base1_", ",", " ", "n1_", ",", " ", "index1_"}], "]"}], "+", 
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"base2_", ",", "n2_", ",", "index2_"}], "]"}]}], "^:=", 
+  "..."}]], "Input",
+ CellChangeTimes->{{3.8030406044017267`*^9, 
+  3.803040655902961*^9}},ExpressionUUID->"67f63878-d641-458f-ac25-\
+868abd3444e9"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"base1_", ",", " ", "n1_", ",", " ", "index1_"}], "]"}], "*", 
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"base2_", ",", "n2_", ",", "index2_"}], "]"}]}], "^:=", 
+  "..."}]], "Input",
+ CellChangeTimes->{{3.803040677955621*^9, 
+  3.8030406785321608`*^9}},ExpressionUUID->"7d0b6aa7-83f3-4e2d-b079-\
+c675eb1a2c08"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PowerTower", "[", "list1", "]"}], "+", 
+  RowBox[{"PowerTower", "[", "list2", "]"}]}]], "Input",
+ CellChangeTimes->{{3.803040700301552*^9, 
+  3.803040710196721*^9}},ExpressionUUID->"2f881dae-abec-4534-98ef-\
+97b76f60b8c6"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"1", ",", "2", ",", "3"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"4", ",", "5", ",", "6"}], "}"}]}], "}"}]], "Input",
+ CellChangeTimes->{{3.803040811401286*^9, 3.803040814336385*^9}},
+ CellLabel->
+  "In[155]:=",ExpressionUUID->"9f837f87-a6b2-46f6-b50f-0d5195b1c7fb"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{"1", ",", "2", ",", "3"}], "}"}], ",", 
+   RowBox[{"{", 
+    RowBox[{"4", ",", "5", ",", "6"}], "}"}]}], "}"}]], "Output",
+ CellChangeTimes->{3.8030408153508577`*^9},
+ CellLabel->
+  "Out[155]=",ExpressionUUID->"b05cc6f3-14d5-4ba2-b799-23cf2565fdd5"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"%", "//", "MatrixForm"}]], "Input",
+ CellChangeTimes->{{3.803040817515503*^9, 3.803040820472076*^9}},
+ CellLabel->
+  "In[156]:=",ExpressionUUID->"fa488ae4-b295-47ba-b69e-783eb47e4e76"],
+
+Cell[BoxData[
+ TagBox[
+  RowBox[{"(", "\[NoBreak]", GridBox[{
+     {"1", "2", "3"},
+     {"4", "5", "6"}
+    },
+    GridBoxAlignment->{"Columns" -> {{Center}}, "Rows" -> {{Baseline}}},
+    GridBoxSpacings->{"Columns" -> {
+        Offset[0.27999999999999997`], {
+         Offset[0.7]}, 
+        Offset[0.27999999999999997`]}, "Rows" -> {
+        Offset[0.2], {
+         Offset[0.4]}, 
+        Offset[0.2]}}], "\[NoBreak]", ")"}],
+  Function[BoxForm`e$, 
+   MatrixForm[BoxForm`e$]]]], "Output",
+ CellChangeTimes->{3.803040820800912*^9},
+ CellLabel->
+  "Out[156]//MatrixForm=",ExpressionUUID->"7e87a79a-44b5-455c-98e7-\
+3e55c040486b"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"LevelIndexObject", "[", 
+  RowBox[{"10", ",", "3", ",", ".123"}], "]"}]], "Input",
+ CellChangeTimes->{{3.803040826185129*^9, 3.803040834167748*^9}},
+ CellLabel->
+  "In[157]:=",ExpressionUUID->"6e16b8b9-4716-4075-8d4c-421429639066"],
+
+Cell[BoxData[
+ RowBox[{"LevelIndexObject", "[", 
+  RowBox[{"10", ",", "3", ",", "0.123`"}], "]"}]], "Output",
+ CellChangeTimes->{3.803040834770069*^9},
+ CellLabel->
+  "Out[157]=",ExpressionUUID->"b46030e4-aa5d-4530-8f3d-334185118177"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PowerForm", "[", 
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"base_", ",", " ", "n_", ",", " ", "index_"}], "]"}], "]"}], 
+  ":="}]], "Input",
+ CellChangeTimes->{{3.80304084224798*^9, 
+  3.8030408546951647`*^9}},ExpressionUUID->"587078f8-5037-4d1b-be7e-\
+9f5de122ee64"],
+
+Cell[BoxData[
+ RowBox[{"LevelIndexObject", "/:", 
+  RowBox[{"MakeBoxes", "[", 
+   RowBox[{
+    RowBox[{"LevelIndexObject", "[", 
+     RowBox[{"base_", ",", "n_", ",", "index_"}], "]"}], ",", 
+    "StandardForm"}], "]"}], ":="}]], "Input",
+ CellChangeTimes->{{3.8030409154799023`*^9, 
+  3.80304093414808*^9}},ExpressionUUID->"064e216f-df41-4cb1-acd8-\
+5e6ed1829486"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"10", ",", "n_", ",", "index1_"}], "]"}], "+", 
+   RowBox[{"LevelIndexObject", "[", 
+    RowBox[{"10", ",", "n_", ",", " ", "index2_"}], "]"}]}], "^:=", 
+  "..."}]], "Input",
+ CellChangeTimes->{{3.803041685767416*^9, 
+  3.803041742452281*^9}},ExpressionUUID->"3ad6571c-c3e4-4e39-be8e-\
+78e15f94839b"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"PowerTower", "[", "list_", "]"}], ":=", 
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"n", ",", "index"}], "}"}], ",", "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{"n", "=", "\"\<Number of powers of 10\>\""}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"index", "=", "\"\<last exponent\>\""}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"LevelIndexObject", "[", 
+      RowBox[{"10", ",", "n", ",", "index"}], "]"}]}]}], 
+   "\[IndentingNewLine]", "]"}]}]], "Input",
+ CellChangeTimes->{{3.8030418893914948`*^9, 
+  3.803041965899653*^9}},ExpressionUUID->"fed5d662-90c0-4659-a05e-\
+58727cfde363"]
+},
+WindowSize->{808, 690},
+WindowMargins->{{257, Automatic}, {Automatic, 0}},
+FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 250, 5, 30, "Input",ExpressionUUID->"70dd9bd1-4459-4d6d-b4ee-59a466287a41"],
+Cell[811, 27, 290, 7, 30, "Input",ExpressionUUID->"7993eb39-0090-4c23-9dfd-0b77aa464f8d"],
+Cell[1104, 36, 238, 5, 30, "Input",ExpressionUUID->"9f6dcb75-a2fc-4295-95e5-6eeb033fea3d"],
+Cell[1345, 43, 401, 10, 30, "Input",ExpressionUUID->"67f63878-d641-458f-ac25-868abd3444e9"],
+Cell[1749, 55, 401, 10, 30, "Input",ExpressionUUID->"7d0b6aa7-83f3-4e2d-b079-c675eb1a2c08"],
+Cell[2153, 67, 257, 6, 30, "Input",ExpressionUUID->"2f881dae-abec-4534-98ef-97b76f60b8c6"],
+Cell[CellGroupData[{
+Cell[2435, 77, 339, 9, 30, "Input",ExpressionUUID->"9f837f87-a6b2-46f6-b50f-0d5195b1c7fb"],
+Cell[2777, 88, 318, 9, 34, "Output",ExpressionUUID->"b05cc6f3-14d5-4ba2-b799-23cf2565fdd5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3132, 102, 208, 4, 30, "Input",ExpressionUUID->"fa488ae4-b295-47ba-b69e-783eb47e4e76"],
+Cell[3343, 108, 631, 19, 60, "Output",ExpressionUUID->"7e87a79a-44b5-455c-98e7-3e55c040486b"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[4011, 132, 255, 5, 30, "Input",ExpressionUUID->"6e16b8b9-4716-4075-8d4c-421429639066"],
+Cell[4269, 139, 234, 5, 34, "Output",ExpressionUUID->"b46030e4-aa5d-4530-8f3d-334185118177"]
+}, Open  ]],
+Cell[4518, 147, 310, 8, 30, "Input",ExpressionUUID->"587078f8-5037-4d1b-be7e-9f5de122ee64"],
+Cell[4831, 157, 365, 9, 30, "Input",ExpressionUUID->"064e216f-df41-4cb1-acd8-5e6ed1829486"],
+Cell[5199, 168, 384, 10, 30, "Input",ExpressionUUID->"3ad6571c-c3e4-4e39-be8e-78e15f94839b"],
+Cell[5586, 180, 667, 17, 115, "Input",ExpressionUUID->"fed5d662-90c0-4659-a05e-58727cfde363"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
