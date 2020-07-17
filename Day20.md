@@ -7,6 +7,7 @@
 
 
 > Last High Fidelity Meet as Farewell, to say Goodbye
+> ###### The B is The Famaous Brian Silverman, btw. The one who created LOGO (Turtles?)
 
 &nbsp;
 
