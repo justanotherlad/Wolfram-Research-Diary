@@ -10,7 +10,7 @@
 
 &nbsp;
 
-![Farewell/Goodbyes](Screenshot from 2020-07-17 20-10-22.png)
+![Farewell/Goodbyes](Screenshot_from_2020-07-17_20-10-22.png)
 
 
 
